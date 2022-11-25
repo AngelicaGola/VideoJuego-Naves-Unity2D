@@ -20,4 +20,6 @@ Evaluará: Fuerza, fuerza promedio y fuerza máxima
 Fuerza Sostenida. Esta fase final se centra en medir la fuerza de agarre, donde el usuario tendrá que ejercer una fuerza mínima para activar la acción de lanzar una bomba y un tiempo mínimo (establecido por el terapeuta) en el cual tendrá que ejercer esta fuerza, si cumple con estas condiciones la nave empezará a lanzar las bombas. Así como en el nivel 1, el jugador deberá esquivar o destruir el meteorito que vayan saliendo. Se dispondrá de un tiempo de 60 segundos, para acabar con el mayor número de meteoritos y no dejarse hacer daño de ninguno de estos. El juego terminará cuando se acabe este tiempo o se hayan perdido las tres vidas con las que dispone el jugador. 
 Evaluará: Fuerza, fuerza promedio y fuerza máxima.
 
+A continuación, se muestra los diferentes movimientos generados por el videojuego 
+
 ![Movimientos generados en el juego](https://github.com/AngelicaGola/VideoJuego-Naves-Unity2D/blob/main/movimientos.png)
